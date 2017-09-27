@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookShared</string>
+
+    <string name="facebook_app_id">143351079613847</string>
+    <string name="fb_login_protocol_scheme">fb143351079613847</string>
+
+</resources>
